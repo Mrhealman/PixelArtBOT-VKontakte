@@ -18,4 +18,4 @@
 * Save and run start.bat or start_linux_mac.sh (for linux/mac)
 
 ## Bot powered by MPEI and MAI
-![Alt-текст](https://www.scadadatarate.ru/upload/iblock/355/35541246e44043f75d3e350250d15638.jpg "MPEI") ![Alt-текст](https://ussr22.su/wp-content/uploads/2019/03/MAI.jpg "MAI")
+![Alt-текст](https://pp.userapi.com/c840333/v840333347/89c91/aoqHyHWZ910.jpg "MPEI") ![Alt-текст](https://ussr22.su/wp-content/uploads/2019/03/MAI.jpg "MAI")
