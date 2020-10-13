@@ -18,4 +18,4 @@
 * Save and run start.bat or start_linux_mac.sh (for linux/mac)
 
 ## Bot powered by MPEI and MAI
-![Alt-текст](https://pp.userapi.com/c840333/v840333347/89c91/aoqHyHWZ910.jpg "MPEI") ![Alt-текст](https://ussr22.su/wp-content/uploads/2019/03/MAI.jpg "MAI")
+![Alt-текст](https://github.com/Mrhealman/PixelArtBOT-VKontakte/blob/master/Union.png?raw=true "Developers")
