@@ -10,7 +10,7 @@
 * In the search|filter, write ws and look for a string where the status|Status = 101.
 * RMB-> Copy link
 
-## How to set up a bot?
+## How to setup a bot?
 * Installing Node.JS! Download link: https://nodejs.org/en/ 
 * Unpacking the archive from github
 * Run install.bat waiting for the end of downloads and closing the console
